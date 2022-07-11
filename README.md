@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezgidolma
 - 👀 I’m interested in book,coding,movie...
-- 🌱 I’m currently learning python,c
+- 🌱 I’m currently learning c#
 - 📫 How to reach me ezgidolma23@gmail.com
 
 <!---
